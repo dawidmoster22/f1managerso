@@ -1,0 +1,24 @@
+{
+    "name": "f1-manager-hack/mod-free-bucks-coins",
+    "description": "F1 Manager hack Mod Apk- F1 Manager Cheats Hack is our latest online tool that helps you get free.",
+    "homepage": "https://github.com/lahockijogn/f1managerso",
+	"keywords": ["F1 Manager mod apk"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLICK Here F1 Manager Generator",
+            "homepage": "https://mobiletiperz.com/f1-manager-cheats-tricks/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "mini
