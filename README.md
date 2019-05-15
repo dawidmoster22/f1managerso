@@ -4,7 +4,7 @@
 
 F1 Manager Hack Generator limits you to claiming any more than once per day. This is so that SYBO Games cannot be suspicious about the heap of Generator that you may claim in a day. You also need to verify by going through a survey after which you’ll have the Generator instantly generated.
 
-# <h1><a href="hhttps://mobiletiperz.com/f1-manager-cheats-tricks/">CLICK HERE F1 Manager Hack Generator</a></h1>
+# <h1><a href="https://mobiletiperz.com/f1-manager-cheats-tricks/">CLICK HERE F1 Manager Hack Generator</a></h1>
 
 Unlike other fake F1 Manager Hack Generator tools, this one doesn’t ask you about your password. All you need to do is input your real game username. The generator will then conduct a thorough search on the name after which they’ll identify it and ask you to choose the package you need. When you choose, you’ll be needed to verify using a survey.
 
