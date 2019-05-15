@@ -21,4 +21,5 @@
         "symfony/dom-crawler": "^3.3",
         "symfony/css-selector": "^3.3"
     },
-    "mini
+    "minimum-stability": "dev"
+}
